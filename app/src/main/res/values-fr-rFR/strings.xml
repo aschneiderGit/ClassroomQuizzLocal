@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClassroomCommunity</string>
+    <string name="conect">S\'authentifier</string>
+    <string name="login">Login</string>
+    <string name="mdp">Mot de Passe</string>
+    <string name="tpsRestant">temps restant :</string>
+    <string name="pseudo1">Pseudo 1</string>
+    <string name="pseudo2">Pseudo 2</string>
+    <string name="tpsRestantValue">100</string>
+    <string name="score1">0</string>
+    <string name="score2">0</string>
+    <string name="question">Quel est la question ?</string>
+    <string name="defaut_score">100</string>
+    <string name="arrondissement">Arrondissement</string>
+    <string name="quizz">Quizz</string>
+    <string name="open">Ouvert</string>
+    <string name="close">Fermé</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="friends">Amis</string>
+    <string name="my_friends">Mes amis</string>
+    <string name="last_score">"Dernier score : "</string>
+    <string name="defaultLogin">a</string>
+    <string name ="home">Accueil</string>
+    <string name="server">Serveur:</string>
+</resources>

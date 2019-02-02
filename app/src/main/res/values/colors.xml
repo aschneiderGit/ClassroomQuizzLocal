@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="greenLight">#008577</color>
+    <color name="greenFluo">#02ce24</color>
+    <color name="greenDark">#00574B</color>
+    <color name="redDark">#da151b</color>
+    <color name="redLight">#ff4343</color>
+    <color name="background_layout">#ffffff</color>
+    <color name="text_layout">#000000</color>
+    <color name="text_layout2">#00a3f5</color>
+    <color name="text_btn_arrondissement">#ffffff</color>
+</resources>
