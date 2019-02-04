@@ -30,7 +30,7 @@ abstract public class Connection {
     public static String HTTP = "http://";
     static public String LOCALHOST = "" ;
     static public String LOCALHOST_TXT = "/Localhost.txt";
-    static public String LOCALHOST_PATH = "/android/data/tk.aimeschneider/ClassroomCommunity";
+    static public String LOCALHOST_PATH = "/android/data/tk.aimeschneider/ClassroomQuizzLocal";
     final static String TAG = Connection.class.getName();
     static public String WEB_CONNECTION_REQUEST;
     static public String WEB_QUESTION_REQUEST;

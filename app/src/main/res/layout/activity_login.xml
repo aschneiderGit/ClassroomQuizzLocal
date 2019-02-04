@@ -40,8 +40,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:ems="10"
-            android:inputType="textPersonName"
-            android:text="@string/defaultLogin" />
+            android:inputType="textPersonName" />
 
         <TextView
             android:id="@+id/txtmdp"
@@ -61,8 +60,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:ems="10"
-            android:inputType="textPassword"
-            android:text="@string/defaultLogin" />
+            android:inputType="textPassword" />
 
         <TextView
             android:id="@+id/tvServer"
